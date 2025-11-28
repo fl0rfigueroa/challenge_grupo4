@@ -44,7 +44,7 @@ El objetivo principal de este proyecto es implementar pruebas automatizadas end-
 
 
 ## 📋 6. Notas
-- Los tests se ejecutan sobre el entorno QA: https://ticketazo.com.ar/
+- Los tests se ejecutan sobre el entorno de producción: https://ticketazo.com.ar/
 - Todos los enlaces (plan de pruebas, GitHub y Trello) son públicos y accesibles sin registro.
 
 
@@ -56,5 +56,6 @@ El objetivo principal de este proyecto es implementar pruebas automatizadas end-
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 
 </p>
+
 
 
