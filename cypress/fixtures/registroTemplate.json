@@ -1,0 +1,10 @@
+{
+  "nombre": "PedroTest",
+  "apellido": "ApellidoTest",
+  "telefono": "3511122334",
+  "provincia": "Córdoba",
+  "localidad": "Córdoba",
+  "fechaNacimiento": "01/01/1995",
+  "password": "Password123!",
+  "passwordConfirm": "Password123!"
+}

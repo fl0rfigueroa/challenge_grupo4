@@ -1,0 +1,37 @@
+{
+  "usuarioValido": {
+    "email": "testing19111619@gmail.com",
+    "password": "Testing123!"
+  },
+  "passwordInvalida": {
+    "email": "testing19111619@gmail.com",
+    "password": "wrongpass"
+  },
+  "emailInvalido": {
+    "email": "fakeuser@mail.com",
+    "password": "Testing123!"
+  },
+  "emailVacio": {
+    "email": " ",
+    "password": "Testing123!"
+  },
+  "passwordVacia": {
+    "email": "testing19111619@gmail.com",
+    "password": ""
+  },
+
+  "camposVacios": {
+    "email": " ",
+    "password": ""
+  },
+
+  "emailFormatoInvalido": {
+    "email": "testing19111619gmail.com",
+    "password": "Testing123!"
+  },
+
+  "emailSinValidar": {
+    "email": "noejuncosqa@gmail.com",
+    "password": "Noelia123!"
+    }
+    }
